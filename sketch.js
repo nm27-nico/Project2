@@ -15,9 +15,9 @@ var input;
 
 let s1 = '1. Look at yourself and your surrounding environment. Feel your emotions.';
 let s2 = '2. Use the color sliders to find a background color that aligns with your current feelings.';
-let s3 = '3. Click one of the four available sounds that best fit your mood.';
-let s4 = '4. Write a sentence about why you think you are feeling the specific emotions you feel in the white box.';
-let s5 = 'This private digital spaces serves as a opportunity for self-documentation. Liberate yourself from the stress of public perception and connect with your emotions privately.';
+let s3 = '3. Choose one of the four available instrumental beats that best fit your current feelings.';
+let s4 = '4. Write a sentence about why you think you are feeling the specific emotions you are feeling in the white box.';
+let s5 = 'This private digital space serves as an opportunity for self-documentation. Liberate yourself from the stress of public perception and connect with your emotions privately.';
 let s6 = 'Instructions:';
 
 function setup() {
